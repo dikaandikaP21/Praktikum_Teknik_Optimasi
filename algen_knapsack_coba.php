@@ -3,7 +3,7 @@ $start = microtime(true);
 
 class Parameters
 {
-    const FILE_NAME = 'product.txt';
+    const FILE_NAME = 'products.txt';
     const COLUMNS = ['item', 'price'];
     const BUDGET = 250000;
     const STOPPING_VALUE = 100;
